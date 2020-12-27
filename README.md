@@ -1,3 +1,3 @@
-A simple Tic-Tac-Toe game, developed through React JS 
-Future commits will have options for 1 and 2 players, and integration with ML model to play from system end. 
-
+A simple Tic-Tac-Toe game, developed through React JS. <br>
+Future commits will have options for 1 and 2 players, and integration with Machine learning to play from system end with competence. 
+<img src="TicTacToe_Game.png" width="350" alt="TicTacToe Game">
